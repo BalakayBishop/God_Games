@@ -1,3 +1,4 @@
+
 - A homebrew campaign 
 - Overview & Background
 	- Begins in [[Yhagos]] in [[Zelkurs]]
@@ -24,4 +25,3 @@
 		- Personal choice?
 	- What other background information is pertinent to the characters motivations
 	- When finished: email character background to gliberatore6@gmail.com
-	- 
