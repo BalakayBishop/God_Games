@@ -1,0 +1,32 @@
+
+- Entering a small chamber under the tournament ground
+- Panel of judges
+- "What drives you to partake in the competition?"
+- Participants are introducing themselves
+- 2 additional questions for the deities
+	- Q: A stranger ask for help, how do I respond? A: What do they have to offer?
+	- Q: What do I dislike most about myself? A: My hatred for my monastery
+- Continuing up to the main grounds to complete 6 tasks
+- Announcer steps into the booth
+	- Talking to the crowd
+- Comp. 1: Wrestling
+	- Round 1: LOST
+- Comp 2: Archery (14)
+	- Round 1: 1, 3, 0, 1, 1 = 6 pts. 
+	- +60 XP
+- Comp 3: Potion Selection Challenge (3)
+	- 20 mysterious potions, buff or nerf
+	- Advantage on my next roll
+- Comp 4: Test of Knowledge
+	- Q1: Wrong
+	- Q2: Correct, 4 pts.
+	- +40 XP
+- Comp 5: Grand Horse Race
+	- Ability of communication with animals and agility
+	- Result: something far behind
+	- +66 XP
+- Comp 6: Presenting Gifts for Crowd Reactions
+	- Performed a ritual dance/presentation that was taught at the monastery
+	- Rolled 17, crowd enjoyed it!
+	- +150 XP
+- LEVEL UP!

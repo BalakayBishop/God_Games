@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "41022a27f6f1695d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7d9a5ee7898a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a12e51087ee9777",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fae865f9c8557705",
+    "type": "split",
+    "children": [
+      {
+        "id": "96b1ad4dc9115759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f1de4d130f730ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bf0dc80387fd8347",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4925bd9eae46ad67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9ffb98fe7fd76fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c04ffd797756ccb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20ce5626d44e634e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Session 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 1"
+            }
+          },
+          {
+            "id": "318e844bf28a78f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Session 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 1"
+            }
+          },
+          {
+            "id": "6f2b1950df77bda8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e894b7ee988084d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session Notes/Session 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a12e51087ee9777",
+  "lastOpenFiles": [
+    "God Games.md",
+    "Session Notes/Session 1.md",
+    "Cities & Towns/Yhagos.md",
+    "Cities & Towns/Snakebell.md",
+    "Cities & Towns/Last Hold.md",
+    "Cities & Towns/Fairhand.md",
+    "Cities & Towns/Boulderdale.md",
+    "POIs/Zelkurs.md",
+    "Misc.",
+    "Misc./Tournament of Divinity.md",
+    "Session Notes",
+    "Taverns",
+    "Shops",
+    "Inns",
+    "NPCs",
+    "POIs",
+    "Cities & Towns",
+    "Welcome.md"
+  ]
+}
