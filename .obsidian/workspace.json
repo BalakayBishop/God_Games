@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d735e942deba2a0",
+        "id": "d393e492a8aa1bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "69a6f0343cb24aa3",
+            "id": "344029ef4894fb8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "God Games.md",
+                "file": "Misc./Tournament of Divinity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "God Games"
+              "title": "Tournament of Divinity"
             }
           }
         ]
@@ -162,17 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69a6f0343cb24aa3",
+  "active": "344029ef4894fb8f",
   "lastOpenFiles": [
+    "Session Notes/Session 1.md",
+    "God Games.md",
+    "NPCs.md",
+    "Misc./Tournament of Divinity.md",
+    "NPCs/Zaros.md",
     "Taverns.md",
     "Shops.md",
-    "NPCs.md",
     "POIs.md",
     "Misc.md",
     "Inns.md",
     "Cities & Towns.md",
-    "Session Notes/Session 1.md",
-    "God Games.md",
     "Cities & Towns/Yhagos.md",
     "Cities & Towns/Snakebell.md",
     "Cities & Towns/Last Hold.md",
@@ -180,7 +182,6 @@
     "Cities & Towns/Boulderdale.md",
     "POIs/Zelkurs.md",
     "Misc.",
-    "Misc./Tournament of Divinity.md",
     "Session Notes",
     "Taverns",
     "Shops",

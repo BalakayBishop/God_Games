@@ -25,3 +25,32 @@
 		- Personal choice?
 	- What other background information is pertinent to the characters motivations
 	- When finished: email character background to gliberatore6@gmail.com
+- Character
+	- Kaelith Duskmantle, a Light Domain Cleric that draws his power from the God of Fire [[Zaros]]
+		- Background:
+			- Acolyte
+			- Feature: Shelter of the Faithful
+			- As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
+			- You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
+	- Backstory:
+		- My parents abandoned me at a young age. They left me at a monastery dedicated to Zaros, the god of fire, within the city limits of Yhagos. Growing up in the monastery, I was taught to worship fire. After reading an ancient text deep within the forbidden section of the monastery's library, I learned secrets of Zaros'. After being bestowed this knowledge, which I believe was granted through divine intervention, the monk leaders became skeptical and fearful of my knowledge and abilities, and as a result, I was cast out of the monastery and branded a heretic. I am seeking to prove myself to Zaros in the Tournament of Divinity within Yhagos to win his favor. After I win Zaros' favor, I plan to return to the monastery and seek revenge against the monks who banished me from the monastery and branded me a heretic.
+	- Characteristics
+		- Alignment: Chaotic Evil
+		- Gender: Male
+		- Eyes: Orange
+		- Size: Medium
+		- Height: 6' 4"
+		- Faith: Zaros
+		- Hair: Black w/ red streaks
+		- Skin: red
+		- Age: 18
+		- Weight: 200 lbs.
+	- Personality Traits
+		- I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example. I see omens in every event and action. The gods try to speak to us, we just need to listen. 
+		- I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods.
+	- Ideals
+		- Power. I hope to one day rise to the top of my faith’s religious hierarchy. (Lawful)
+	- Bonds
+		- I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.
+	- Flaws
+		- I am inflexible in my thinking.
