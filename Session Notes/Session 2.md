@@ -1,0 +1,194 @@
+- The tournament continues
+- Announcer and hidden figure whisper to each other, a twist in the tournament
+- We must now face a Black Dragon Wormling (AC 17) 
+- Combat w/ dragon: init 7
+	- Missed with Guiding Bolt
+	- Kayla gets the final strike
+	- Dragon roars and falls with a boom
+	- +88 XP
+- Crowd is going crazy and the announcer comes back
+- The Decision of the Gods
+	- Celestial figures emerge from the heavens
+	- [[Enja]]: Goddess of Strength, daughter of Titus
+	- [[Nadum]]: God of Humor, Son of Kearis
+	- [[Ohmos]]: God of Spirit, Son of Dhados
+	- [[Udar]]: God of Anger, Son of Vardona
+	- [[Ciphion]]: Goddess of Shadows, Daughter of Dhados
+	- [[Drivuna]]: Goddess of Animals, Daughter of Vardona
+	- [[Gyana]]: Goddess of Arcane, Daughter of Cardona
+	- [[Nava]]: Goddess of Patience, Daughter of Yona
+	- [[Talena]]: Goddess of Music, Daughter of Kearis
+	- [[Yemis]]: Goddess of Silence, Son of Vardona
+	- [[Emir]]: God of Faith, Son of Titus 
+	- [[Antix]]: Goddess of Pain, Daughter of Kearis
+	- [[Korris]]: Goddess of Deception, Daughter of Kearis
+	- [[Qhudis]], God of Healing, Son of Yona
+	- [[Thanis]], God of Proctection, Son of Yona
+	- [[Vemta]], Goddess of Revenge, Daughter of Kearis
+		- Chosen
+	- [[Drodona]], Goddess of Swordsmanship, Daughter of Titus
+	- [[Ehena]], Goddess of Sensuality, Kearis
+	- [[Umir]], God of Defense, Son of Titus
+	- [[Ismir]], Goddess of Intelligence, Titus
+	- [[Katuna]], Goddess of Wisdom, Titus
+	- [[Xedarr]], God of Arch, Son of Dhados
+	- [[Xytar]], God of Speed, Son of Dhados
+	- [[Korris]], Goddess of Deception, 
+	- [[Zases]], God of Persuasion, Kearis
+	- [[Ismir]], God Redemption, Yona
+	- [[Otrix]], Goddess of Fists
+	- [[Matarr]], God of Creativity and Invention, Son of 
+	- [[Ather]], God of Summoning, Vardona
+- "I choose [[Vemta]], Goddess of Revenge."
+- Boon of [[Vemta]]: Every attack, add a d4 to damage
+- Boon of [[Gyana]]: Once per long rest, regain a spell slot of her choice
+- Champions have been selected
+- Long Rest after the tournament, staying for 3 days in the tournament ground
+- Day 1: the actual tournament
+- Day 2: The Champions Festival w/ the town 
+	- Rolled a 6 
+	- Activities:
+		- Cup Shuffle
+		- Fortune Teller
+		- Drinking game
+		- Chest game
+		- Statue of Yona
+		- Great Artist
+		- Comedy Show
+		- King's Joust
+	- [[King's Joust]]
+		- we see Quinten, looks sad, 
+		- Dane is rude and Quinten gets up and leaves
+		- Bet 25 on the Green Horse
+		- Hannah is approached by Emma Burrows and is gifted a Robe of Stars
+	- [[Chest Game]]
+		- Found 50 GP in the chest
+	- [[Cup Shuffle]]
+		- Rolled an 18
+	- [[Drinking Game]]
+		- Took first shot, rolled a 7 Con save, passed
+		- took second shot, rolled a 6 Con save, get dizzy and fall over
+	- [[Fortune Teller]]
+		- Elisha comes running out
+		- Fortune: "The light be in the shadowest darkness"
+	- [[Statue of Yona]]
+		- Yona is the most worshipped goddess in this land as the goddess of life and creation
+		- City Center, very large statue of the Goddess Yona
+		- Elorith is head down praying
+		- Gain the Blessing of Yona (advantage on the next saving throw)
+	- [[Great Artist]]
+		- a stand with an artist painting on a very large canvas, they are painting the scene of the champions fighting the Black Dragon
+		- I am approached by, [[Cervos]], advisor of [[Isstus]] (God of Death), private audience with the King after the feast
+	- The second day has come to an end
+- Day 3: a Feast with the King
+	- All the champions are lining up to meet with the King
+	- King Darius Brightvale, [[Cervos]] (left, all black w/ skeleton half mask), [[Irene]] (right, clad in white advisor if Yona)
+	- I walk up, cast *Control Flames*, and say "Your highness, my flame and services are yours.", and walk away 
+	- The King rises and speaks to us, grant each of us 10,000 GP, additional we will receive an estate in the kingdom 
+	- we are now going to get ready for the feast
+	- Taking [[Seraphina]] to the feast to dance with
+	- A normal smooth dance w/ [[Seraphina]]
+	- Champion's Spirit is being served
+	- Renee and I start an eating contest against each other
+	- I walk up to Maurice after his speech say, "Lame!" and sock him on the arm to talk to [[Cervos]]
+	- Talking to [[Cervos]] about [[Vemta]], hatred and anger
+	- We are overhearing two food servers talk about [[Lord Percival]] having an affair with his wife's ([[Lady Danielle]]) handmaiden
+	- Renee approaches [[Lady Danielle]], and straight up asks her about the affair
+	- [[Lady Danielle]] storms up to Percival and she slaps him, they start arguing loudly and cussing each other out. Eventually Irene shushes them and escorts them out
+	- [[Cervos]], [[Irene]], and the King are just kind of talking/gossiping about the Champions
+	- [[Seraphina]] approaches her father, the King, and asks her about her mom
+- Day 4:
+	- We lost everything (10,224 GP)
+	- As we wake, we feel an intense throbbing in our heads
+	- we are not where we were when we went to sleep 
+	- we are in a jail cell, a servant approaches, and tells us that the one true king of Zelkurs wants to have us hanged
+	- Dane is trying to persuade him to come closer and cast 
+	- As he is running, Thomas tries to grapple, I hit him with Guiding Bolt
+	- +6 XP
+	- Checking Area 1:
+		- room is dimly lit with iron chains, a guillotine, remnants of horrors, metallic scent of blood spilt
+		- We find a headless skeleton w/ a note
+	- Area 2:
+		- as we walk up the stairs 2 more guards (AC 17) and initiate combat
+		- Combat: init 5
+			- Miss
+			- +13 XP
+	- Area 3:
+		- one guard
+	- Area A:
+		- looks like a shitter
+	- Area B: 
+		- 2 guards cards playing cards
+		- Combat:
+			- Did nothing
+			- +13 XP
+	- Area 5:
+		- A familiar face, [[Derrick]] be questioned by a guard (AC 16)
+		- Combat:
+			- Did nothing
+			- +25 XP
+			- +18 GP
+	- Area 6:
+		- Guard Equipment Room 
+		- Map on the table: shows 
+	- Area 4:
+		- holding cells for people who have not yet been tried
+		- Looked in the shitter, nothing 
+	- Area 8:
+		- A figure hunched in the dark, weathered face by time, long hair over his face
+		- he looks up at us
+		- as we open the cell, the man shapeshifts into a doppelgänger (AC14)
+		- Combat:
+			- Cast *Inflict Wounds*, missed
+			- +88 XP
+	- Area 7: 
+		- 1 guard
+		- Beacon of Light, guard blocking the door, guard rings the bell and the other 5 guards and the Captain
+		- Combat w/ 6 guards and captain:
+			- Cast Radiance of Dawn for 11 dmg to guard and Captain, 6 dmg to the other guards
+			- +63 XP
+	- Area 9: 
+		- Entrance to the dungeons
+		- Nothing really in there
+	- Area 10:
+		- Captain's Quarters, maps and other stuff
+		- "By order of your new king, all champions should be captured and put to death, the champions are traitors and worship false gods"
+	- Escaping and Step Outside
+		- scent of fresh air
+		- dark alleyway
+		- still on palace grounds
+		- loud bells chimes and guard yells "prisoners escaped"
+		- we start to run
+		- we make it about 50 ft before we run into guards
+		- we come to halt and are surrounded by about 50 guards
+		- we hear the whoosh of an arrow hit a guard and we face the wall
+		- strange figures start to emerge on the walls
+		- the cloaked figures progress towards us
+		- we confront the guards and make ready
+		- Combat: init 7
+			- Guards AC is 17 & Captains AC is 16
+			- nat 1 and dropped longsword
+			- Cast Sacred Flame and guard saved
+			- +125 XP
+		- A cloaked figure steps forward and asks for us to follow him
+		- we run past other slain guards 
+		- I enter with the strange man
+		- the man motions to the various couches and we sit
+		- [[Dorrian Havaliard]]: 9 history
+		- [[Isstus]] has led a coup de'tat against Yona
+		- other gods have risen up against their other ruling pairs
+		- [[Vemta]] is missing
+		- [[King Darrius]] is dead, a puppet king has been placed on the throne, and [[Queen Vera]] is missing
+		- Other allies? As of right now, other follower of [[Dalloria]] has been able to disguise and escape, if others are not a champion do not trust them 
+		- Why are you helping us? He needs our help and will answer in time
+		- [[Gaara]] (Time), [[Vimera]], [[Xaros]] (Fire), [[Rhynus]] (Hate) is currently working with [[Isstus]]
+		- Safe houses to be aware of? people throughout the nation who may help us but be cautious
+		- We must travel through the areas of [[Zelkurs]] and weaken Isstus' control
+		- There is no way to kill a god for good, but there are ways
+		- We must head to Fairhand to see what we can learn about the rumor of killing a god
+		- He has a gift for each of us, a cloak made by the goddess Dalloria
+		- 1: only 1 form can be assumed, we cannot change at will, once we assume the identity it is set as that
+		- 2: we only assume the appearance, but we do not get any of the abilities of the identity that we assume
+		- 3: speak with same languages
+		- 4: we cannot assume the form of someone who exists within the realm
+		- Secret Identity: 
